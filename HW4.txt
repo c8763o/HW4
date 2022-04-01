@@ -3,6 +3,18 @@ switch (i)
     case 0:
       food = "ramen"; 
       break;
+    case 1:
+      food = "soup"; 
+      break;
+    case 2:
+      food = "ice cream"; 
+      break;
+    case 3:
+      food = "rice"; 
+      break;
+    case 4:
+      food = "sushi"; 
+      break;
 }
 
 Console.WriteLine("Random recommendation: " + food + ".");
