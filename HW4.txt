@@ -1,0 +1,8 @@
+switch (i)
+ {
+    case 0:
+      food = "ramen"; 
+      break;
+}
+
+Console.WriteLine("Random recommendation: " + food + ".");
